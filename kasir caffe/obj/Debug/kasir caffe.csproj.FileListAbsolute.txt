@@ -1,0 +1,14 @@
+F:\kasir caffe\kasir caffe\bin\Debug\kasir caffe.exe.config
+F:\kasir caffe\kasir caffe\bin\Debug\kasir caffe.exe
+F:\kasir caffe\kasir caffe\bin\Debug\kasir caffe.pdb
+F:\kasir caffe\kasir caffe\obj\Debug\kasir caffe.csproj.AssemblyReference.cache
+F:\kasir caffe\kasir caffe\obj\Debug\kasir_caffe.Form1.resources
+F:\kasir caffe\kasir caffe\obj\Debug\kasir_caffe.Form2.resources
+F:\kasir caffe\kasir caffe\obj\Debug\kasir_caffe.Form3.resources
+F:\kasir caffe\kasir caffe\obj\Debug\kasir_caffe.Form4.resources
+F:\kasir caffe\kasir caffe\obj\Debug\kasir_caffe.Form5.resources
+F:\kasir caffe\kasir caffe\obj\Debug\kasir_caffe.Properties.Resources.resources
+F:\kasir caffe\kasir caffe\obj\Debug\kasir caffe.csproj.GenerateResource.cache
+F:\kasir caffe\kasir caffe\obj\Debug\kasir caffe.csproj.CoreCompileInputs.cache
+F:\kasir caffe\kasir caffe\obj\Debug\kasir caffe.exe
+F:\kasir caffe\kasir caffe\obj\Debug\kasir caffe.pdb
